@@ -1,4 +1,4 @@
-#StockTradingPlatform
+## StockTradingPlatform
 
 Java console-based project developed as part of CodeAlpha Internship.
 
