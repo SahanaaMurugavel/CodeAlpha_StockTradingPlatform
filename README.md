@@ -1,4 +1,4 @@
-# Project Name
+#StockTradingPlatform.java
 
 Java console-based project developed as part of CodeAlpha Internship.
 
